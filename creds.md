@@ -1,0 +1,60 @@
+- user1
+  - login: prod
+  - password: Prod123@
+  - для кассира
+    - login: cashier1
+    - password: Prod123@
+- user2
+  - login: prod2
+  - password: Prod123@
+  - для кассира
+    - login: prod2
+    - password: Prod123@
+- user3
+  - login: prod3
+  - password: Prod123@
+  - для кассира
+    - login: prod3
+    - password: Prod123@
+- user4
+  - login: prod4
+  - password: Prod123@
+  - для кассира
+    - login: prod4
+    - password: Prod123@
+- user5
+  - login: prod5
+  - password: Prod123@
+  - для кассира
+    - login: prod5
+    - password: Prod123@
+- user6
+  - login: prod6
+  - password: Prod123@
+  - для кассира
+    - login: prod6
+    - password: Prod123@
+- user7
+  - login: prod7
+  - password: Prod123@
+  - для кассира
+    - login: prod7
+    - password: Prod123@
+- user8
+  - login: prod8
+  - password: Prod123@
+  - для кассира
+    - login: prod8
+    - password: Prod123@
+- user9
+  - login: prod9
+  - password: Prod123@
+  - для кассира
+    - login: prod9
+    - password: Prod123@
+- user10
+  - login: prod10
+  - password: Prod123@
+  - для кассира
+    - login: prod10
+    - password: Prod123@
